@@ -1,24 +1,8 @@
-# DebScripts
-My personal Debian/Ubuntu scripts
+# LinuxScripts
+My personal Linux scripts
 
-Setup (Run as root)*
+Install Bash-It
 ```
-bash <(curl -s https://raw.githubusercontent.com/lctrevizan/ubuntuscript/main/script.sh)
-```
-
-Install docker*
-```
-bash <(curl -s https://raw.githubusercontent.com/lctrevizan/ubuntuscript/main/docker.sh)
+bash <(curl -s https://raw.githubusercontent.com/lctrevizan/linuxscripts/master/bash-it.sh)
 ```
 
-Install Syncthing and enable it for the current user*
-```
-bash <(curl -s https://raw.githubusercontent.com/lctrevizan/ubuntuscript/main/syncthing.sh)
-```
-
-Install Netmaker*
-```
-bash <(curl -s https://raw.githubusercontent.com/lctrevizan/ubuntuscript/main/netclient.sh)
-```
-
-*Works on debian too
